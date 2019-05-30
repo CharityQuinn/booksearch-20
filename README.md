@@ -6,8 +6,8 @@ The languages used in the app include React, Express, Logger, MongoDB, and JSX. 
 
 Links to sample this app are:
 
-[Saved Books]("./client/public/images/BookSaved.gif")git
-[Book Search]("./client/public/images/BookSearch.gif")
-[Home Page]("./client/public/images/Homepage.gif")
-[Book Search, Resized]("./client/public/images/BookSearchNewSize.gif")
+[Home Page]![image]![image](https://user-images.githubusercontent.com/44899945/55012314-9cd30880-4fbd-11e9-8c42-ef271d28339a.png)
 
+[Saving Books]![image](https://user-images.githubusercontent.com/44899945/55012520-ea4f7580-4fbd-11e9-99e4-ec46dbcae060.png)
+
+[List of Saved Books![image](https://user-images.githubusercontent.com/44899945/55013538-acebe780-4fbf-11e9-8020-4b22a46e6ff9.png)
